@@ -1,3 +1,8 @@
+![.NET](https://img.shields.io/badge/.NET-6%2B-512BD4)
+![WPF](https://img.shields.io/badge/UI-WPF-512BD4)
+![C#](https://img.shields.io/badge/Language-C%23-green)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
+
 # Calc-UI
 A simple calculator application built using C# and WPF. This project demonstrates event-driven UI handling, state management, and basic arithmetic operations.
 
